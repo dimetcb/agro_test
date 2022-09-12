@@ -1503,6 +1503,11 @@ h3 .__title {
     padding-left: 20px;
     padding-right: 20px;
   }
+
+.review__item__text p, .carousel-item {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 1.6rem;
+}
   .col-md {
     -webkit-flex-basis: 0;
     -ms-flex-preferred-size: 0;
